@@ -26,6 +26,6 @@ developer tools to create the code for a starter web application
 Azure App Services :
 App Service simplifies managing and controlling web app in comparison to traditional hosting options. App Service Plan can help to reduce the time and effort spent running and managing your web app, and provide advanced cloud features such as autoscaling and Git integration.
 
-Project Demo : https://drive.google.com/drive/folders/1wEQGtHjpXi9-sxFybE91GlaiKJp_odH8?usp=sharing
+Project Demo : https://drive.google.com/drive/folders/1hdWEkLhWIr5K1r4dpZM_M_jyzbmqBqPQ?usp=sharing
 Project Url : https://polite-glacier-05fe40110.1.azurestaticapps.net
 Project Images : https://drive.google.com/drive/folders/1gJIiIKY2RD7H-QxSpABTFbuuhIycfcBd?usp=sharing
